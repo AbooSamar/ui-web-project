@@ -3,7 +3,7 @@ This project showcases a responsive UI design using HTML and CSS. <br> It includ
 
 Features:
 
-Horizontal scrolling for specific sections.
-Responsive design for mobile and desktop views.
-Clean and modern layout with CSS styling.
+Horizontal scrolling for specific sections. <br>
+Responsive design for mobile and desktop views. <br>
+Clean and modern layout with CSS styling. <br>
 Feel free to fork, contribute, or use it as inspiration for your projects.
